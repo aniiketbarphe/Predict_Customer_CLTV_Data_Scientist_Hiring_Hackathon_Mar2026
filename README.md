@@ -119,6 +119,51 @@ Use of multiple Login IDs will lead to immediate disqualification
 
 Analytics Vidhya holds the right to disqualify any participant at any stage of the competition if the participant(s) are deemed to be acting fraudulently.
 
+Hackathon Rules
+ 
+Submission Guidelines
+
+All submissions must be made through the hackathon platform before the specified deadline.
+
+Participants may submit multiple solutions during the hackathon.
+
+Only the Final Marked Submission will be considered for the final evaluation.
+
+If you do not mark a final submission, your submission with the best Public Score will be treated as your final submission.
+
+The code file is mandatory while setting the final submission
+
+The uploaded code file must correspond to your final submitted solution and should be able to reproduce a similar score.
+
+No submissions will be accepted after the contest deadline.
+
+All code and models submitted must be original and developed during the hackathon.
+ 
+Data Usage
+
+Participants must use only the dataset provided for this hackathon.
+
+Use of external datasets is strictly prohibited.
+
+The ID variable must not be used for making predictions.
+ 
+Modelling Tools
+
+Participants must use Python as the programming language.
+
+Use of open-source libraries and frameworks is allowed.
+ 
+Evaluation Criteria
+
+Submissions will be evaluated based on model performance, feature engineering, hyperparameter tuning, and model selection.
+
+The evaluation metric for this hackathon is R2 Score.
+
+Participants must achieve a score above 0.15 to clear the hackathon.
+
+The public leaderboard score will be visible during the competition, while the final rankings will be based on the private leaderboard.
+ 
+
 <img width="836" height="770" alt="image" src="https://github.com/user-attachments/assets/fc2a65eb-7b93-4437-8d22-2a02ab64fa7a" />
 
 <img width="991" height="82" alt="image" src="https://github.com/user-attachments/assets/eee83af2-5b82-4932-88cb-d6de6fb90207" />
