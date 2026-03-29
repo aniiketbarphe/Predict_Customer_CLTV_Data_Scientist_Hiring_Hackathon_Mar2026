@@ -121,3 +121,6 @@ Analytics Vidhya holds the right to disqualify any participant at any stage of t
 
 <img width="836" height="770" alt="image" src="https://github.com/user-attachments/assets/fc2a65eb-7b93-4437-8d22-2a02ab64fa7a" />
 
+<img width="991" height="82" alt="image" src="https://github.com/user-attachments/assets/eee83af2-5b82-4932-88cb-d6de6fb90207" />
+
+Link: https://www.analyticsvidhya.com/datahack/leaderboard/data-scientist-hiring-hackathon/
